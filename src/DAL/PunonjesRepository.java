@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author RinorJahaj
+ * @author ArtonRamadani
  */
 public class PunonjesRepository extends EntMngClass implements PunonjesInterface{
 public void create(Punonjes p) throws CourtException {

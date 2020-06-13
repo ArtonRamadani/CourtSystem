@@ -11,7 +11,7 @@ import javax.swing.table.AbstractTableModel;
 
 /**
  *
- * @author RinorJahaj
+ * @author ArtonRamadani
  */
 public class PunonjesTableModel extends AbstractTableModel {
 

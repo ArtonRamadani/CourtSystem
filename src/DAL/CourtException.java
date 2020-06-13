@@ -7,7 +7,7 @@ package DAL;
 
 /**
  *
- * @author RinorJahaj
+ * @author ArtonRamadani
  */
 public class CourtException extends Exception {
 

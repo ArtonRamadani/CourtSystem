@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author RinorJahaj
+ * @author ArtonRamadani
  */
 public class DetyraRepository extends EntMngClass implements DetyraInterface{
      public void create(Detyra d) throws CourtException {

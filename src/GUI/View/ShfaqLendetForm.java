@@ -9,7 +9,7 @@ import GUI.Model.AvokatiTableModel;
 
 /**
  *
- * @author RinorJahaj
+ * @author ArtonRamadani
  */
 public class ShfaqLendetForm extends javax.swing.JInternalFrame {
 

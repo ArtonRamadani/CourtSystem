@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author RinorJahaj
+ * @author ArtonRamadani
  */
 public class LlojiPagesesRepository extends EntMngClass implements LlojiPagesesInterface{
     public void create(LlojiPageses lp) throws CourtException {

@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author RinorJahaj
+ * @author ArtonRamadani
  */
 public interface PunonjesInterface {
     void create(Punonjes p) throws CourtException;

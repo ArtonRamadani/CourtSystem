@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author RinorJahaj
+ * @author ArtonRamadani
  */
 public class KlientiRepository extends EntMngClass implements KlientiInterface{
     public void create(Klienti k) throws CourtException {

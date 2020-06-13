@@ -12,7 +12,7 @@ import javax.swing.ComboBoxModel;
 
 /**
  *
- * @author RinorJahaj
+ * @author ArtonRamadani
  */
 public class DepartamentiComboBoxModel extends AbstractListModel<Departamenti> implements ComboBoxModel<Departamenti> {
 

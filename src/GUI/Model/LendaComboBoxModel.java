@@ -12,7 +12,7 @@ import javax.swing.ComboBoxModel;
 
 /**
  *
- * @author RinorJahaj
+ * @author ArtonRamadani
  */
 public class LendaComboBoxModel extends AbstractListModel<Lenda> implements ComboBoxModel<Lenda> {
      private List<Lenda> data;

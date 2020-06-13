@@ -28,7 +28,7 @@ import javax.swing.event.ListSelectionListener;
 
 /**
  *
- * @author RinorJahaj
+ * @author ArtonRamadani
  */
 public class LendaForm extends javax.swing.JInternalFrame {
 

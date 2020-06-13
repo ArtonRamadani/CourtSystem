@@ -7,7 +7,7 @@ package GUI.View;
 
 /**
  *
- * @author RinorJahaj
+ * @author ArtonRamadani
  */
 public class PagesaForm extends javax.swing.JInternalFrame {
 

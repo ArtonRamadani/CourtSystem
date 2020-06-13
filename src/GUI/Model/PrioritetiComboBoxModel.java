@@ -12,7 +12,7 @@ import javax.swing.ComboBoxModel;
 
 /**
  *
- * @author RinorJahaj
+ * @author ArtonRamadani
  */
 public class PrioritetiComboBoxModel extends AbstractListModel<Prioriteti> implements ComboBoxModel<Prioriteti> {
     private List<Prioriteti> data;

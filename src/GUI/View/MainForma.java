@@ -7,7 +7,7 @@ package GUI.View;
 
 /**
  *
- * @author RinorJahaj
+ * @author ArtonRamadani
  */
 public class MainForma extends javax.swing.JFrame {
 

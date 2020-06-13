@@ -10,7 +10,7 @@ import javax.persistence.Persistence;
 
 /**
  *
- * @author RinorJahaj
+ * @author ArtonRamadani
  */
 public class EntMngClass {
      EntityManager em = Persistence.createEntityManagerFactory("courtSystemPU").createEntityManager();

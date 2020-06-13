@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author RinorJahaj
+ * @author ArtonRamadani
  */
 public class LendaRepository extends EntMngClass implements LendaInterface{
     public void create(Lenda l) throws CourtException  {

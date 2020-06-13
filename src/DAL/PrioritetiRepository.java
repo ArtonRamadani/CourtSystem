@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author RinorJahaj
+ * @author ArtonRamadani
  */
 public class PrioritetiRepository extends EntMngClass implements PrioritetiInterface{
     public void create(Prioriteti p) throws CourtException {

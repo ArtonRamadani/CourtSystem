@@ -29,7 +29,7 @@ import javax.swing.event.ListSelectionListener;
 
 /**
  *
- * @author RinorJahaj
+ * @author ArtonRamadani
  */
 public class DetyraForm extends javax.swing.JInternalFrame {
 

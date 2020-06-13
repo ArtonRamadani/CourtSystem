@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author RinorJahaj
+ * @author ArtonRamadani
  */
 public interface LendaInterface {
       void create(Lenda l) throws CourtException;

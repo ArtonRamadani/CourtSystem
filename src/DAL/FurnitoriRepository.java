@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author RinorJahaj
+ * @author ArtonRamadani
  */
 public class FurnitoriRepository extends EntMngClass implements FurnitoriInterface{
 

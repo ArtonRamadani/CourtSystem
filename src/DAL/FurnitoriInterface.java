@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author RinorJahaj
+ * @author ArtonRamadanis
  */
 public interface FurnitoriInterface {
     void create(Furnitori f) throws CourtException;

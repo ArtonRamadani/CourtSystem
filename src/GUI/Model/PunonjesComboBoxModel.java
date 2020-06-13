@@ -12,7 +12,7 @@ import javax.swing.ComboBoxModel;
 
 /**
  *
- * @author RinorJahaj
+ * @author ArtonRamadani
  */
 public class PunonjesComboBoxModel extends AbstractListModel<Punonjes> implements ComboBoxModel<Punonjes> {
     private List<Punonjes> data;

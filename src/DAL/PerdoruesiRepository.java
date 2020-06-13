@@ -11,7 +11,7 @@ import javax.persistence.Query;
 
 /**
  *
- * @author RinorJahaj
+ * @author ArtonRamadani
  */
 public class PerdoruesiRepository extends EntMngClass implements PerdoruesiInterface{
     

@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author RinorJahaj
+ * @author ArtonRamadani
  */
 public class DepartamentiRepository extends EntMngClass implements DepartamentiInterface {
 

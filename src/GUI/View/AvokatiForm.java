@@ -23,7 +23,7 @@ import javax.swing.table.TableRowSorter;
 
 /**
  *
- * @author RinorJahaj
+ * @author ArtonRamadani
  */
 public class AvokatiForm extends javax.swing.JInternalFrame {
 

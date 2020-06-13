@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author RinorJahaj
+ * @author ArtonRamadani
  */
 public interface DetyraInterface {
       void create(Detyra d) throws CourtException;

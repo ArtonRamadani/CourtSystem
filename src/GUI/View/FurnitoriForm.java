@@ -19,7 +19,7 @@ import javax.swing.event.ListSelectionListener;
 
 /**
  *
- * @author RinorJahaj
+ * @author ArtonRamadani
  */
 public class FurnitoriForm extends javax.swing.JInternalFrame {
 

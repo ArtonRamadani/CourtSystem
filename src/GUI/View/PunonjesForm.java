@@ -23,7 +23,7 @@ import javax.swing.event.ListSelectionListener;
 
 /**
  *
- * @author RinorJahaj
+ * @author ArtonRamadani
  */
 public class PunonjesForm extends javax.swing.JInternalFrame {
 

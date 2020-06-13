@@ -14,7 +14,7 @@ import javax.swing.table.AbstractTableModel;
 
 /**
  *
- * @author RinorJahaj
+ * @author ArtonRamadani
  */
 public class DetyraTableModel extends AbstractTableModel {
      List<Detyra> list;

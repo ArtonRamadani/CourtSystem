@@ -14,7 +14,7 @@ import javax.swing.table.AbstractTableModel;
 
 /**
  *
- * @author RinorJahaj
+ * @author ArtonRamadani
  */
 public class LendaTableModel extends AbstractTableModel {
       List<Lenda> list;
